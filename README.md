@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cécile</h1>
-<h3 align="center">A final year of studying software and data engineering</h3>
+<h3 align="center">A final year student in software and data engineering</h3>
 <h4>I'm passionate about creating innovative solutions and working with cutting-edge technologies. 🚀</h4>
 
 - 🌱 I’m currently learning **IA, Android, Kotlin, Flutter**
